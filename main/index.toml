@@ -76,6 +76,11 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader.pw.toml"
 hash = "1dfb5c49a53c3b2a91dc7c64654ea9b5dab2ac6e78f3c2c8decbf5c9c3ed1ef8"
 metafile = true
